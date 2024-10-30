@@ -6,7 +6,7 @@ Here’s a refined GitHub README dataset description suitable for a research pap
 
 # WattWatch Dataset: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT
 
-Welcome to the WattWatch dataset repository! This dataset is part of our capstone project, "WattWatch: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT." It supports our energy management system by providing real-time data insights on consumer electricity consumption, enabling personalized feedback, and fostering energy conservation behaviors.
+Welcome to the WattWatch dataset repository! This dataset is part of our research project, "WattWatch: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT." It supports our energy management system by providing real-time data insights on consumer electricity consumption, enabling personalized feedback, and fostering energy conservation behaviors.
 
 ### Project Summary
 
