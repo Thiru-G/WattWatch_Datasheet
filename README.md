@@ -18,7 +18,7 @@ The dataset spans a six-month period, capturing daily records for each participa
 
 | Column Name                    | Data Type  | Description                                                                                             |
 |--------------------------------|------------|---------------------------------------------------------------------------------------------------------|
-| `Date`                         | Date       | The date of the record entry, spanning from 2024-05-01 to 2024-10-31.                                   |
+| `Date`                         | Date       | The date of the record entry                                |
 | `User ID`                      | Categorical| Unique identifier for each user, representing individual households.                                     |
 | `Total Consumption (kWh)`      | Float      | Total electricity consumption per day in kilowatt-hours (kWh).                                          |
 | `Peak Consumption (kWh)`       | Float      | Energy consumed during peak hours (kWh), calculated based on hourly usage patterns.                     |
