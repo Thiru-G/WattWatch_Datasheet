@@ -1,5 +1,3 @@
-Understood. Here’s a revised version of the README tailored for the combined daily dataset (where each file contains both behavior journal and corresponding appliance usage data):
-
 WattWatch Dataset: Behavior-Synced Daily Energy Usage Records
 
 This repository contains the full 6-month dataset generated as part of the research project:
