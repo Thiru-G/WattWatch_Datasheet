@@ -1,0 +1,23 @@
+Profile,Device,Pre-App Avg (kWh),Post-App Avg (kWh),Change (%)
+21M,Laptop,0.257,0.204,20.63
+21M,Fan,0.701,0.549,21.62
+21M,Light,0.097,0.079,18.66
+21M,Charger,0.046,0.035,23.28
+21M,Cooler,0.352,0.273,22.46
+21F,Laptop,0.153,0.126,17.64
+21F,Hair Dryer,0.15,0.119,20.35
+21F,Ring Light,0.072,0.053,25.87
+21F,Fan + Light,0.782,0.602,22.97
+Couple,TV,0.346,0.274,20.66
+Couple,Fridge,2.974,2.93,1.49
+Couple,Mixer,0.069,0.053,23.08
+Couple,Light + Fan,0.72,0.566,21.43
+Bachelors,Induction Stove,1.851,1.422,23.19
+Bachelors,Router,0.282,0.282,-0.19
+Bachelors,Charging Station,0.182,0.139,23.77
+Bachelors,LED Bulbs,0.178,0.138,22.26
+Faculty,PC,1.125,0.895,20.44
+Faculty,Fan,0.293,0.232,20.8
+Faculty,LED Panel,0.282,0.22,21.73
+Faculty,Printer,0.012,0.008,35.38
+Faculty,Kettle,0.174,0.14,19.49
