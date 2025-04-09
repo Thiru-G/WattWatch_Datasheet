@@ -27,18 +27,6 @@ Profiles Covered
 
 ⸻
 
-File Structure
-
-WattWatch_Datasheet/
-│
-├── 21M_FullData.csv
-├── 21F_FullData.csv
-├── Couple_FullData.csv
-├── Bachelors_FullData.csv
-└── Faculty_FullData.csv
-
-⸻
-
 Column Definitions
 
 Column	Description
