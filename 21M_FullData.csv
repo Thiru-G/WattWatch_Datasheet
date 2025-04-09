@@ -1,0 +1,185 @@
+Date,Behavior,Day,Laptop (65W) (hrs),Laptop (65W) (kWh),Fan (70W) (hrs),Fan (70W) (kWh),LED Tube (18W) (hrs),LED Tube (18W) (kWh),Charger (10W) (hrs),Charger (10W) (kWh),Air Cooler (120W) (hrs),Air Cooler (120W) (kWh),Total Daily Consumption (kWh)
+2024-03-01,Normal college day. Moderate evening device usage.,Friday,4.82,0.313,11.26,0.788,5.48,0.099,3.62,0.036,4.42,0.53,1.766
+2024-03-02,Out most of the day. Minimal appliance usage.,Saturday,4.6,0.299,8.99,0.629,6.71,0.121,3.31,0.033,5.9,0.708,1.79
+2024-03-03,Stayed home all day. Fan and laptop usage high.,Sunday,5.08,0.33,10.75,0.752,6.82,0.123,5.17,0.052,1.14,0.137,1.394
+2024-03-04,Normal college day. Moderate evening device usage.,Monday,3.83,0.249,8.29,0.58,5.17,0.093,5.22,0.052,2.32,0.278,1.252
+2024-03-05,Normal college day. Moderate evening device usage.,Tuesday,3.49,0.227,10.38,0.727,6.62,0.119,3.14,0.031,2.31,0.277,1.381
+2024-03-06,Normal college day. Moderate evening device usage.,Wednesday,2.97,0.193,10.78,0.755,4.32,0.078,4.99,0.05,1.72,0.206,1.282
+2024-03-07,Normal college day. Moderate evening device usage.,Thursday,3.1,0.202,11.75,0.822,4.06,0.073,4.31,0.043,0.13,0.016,1.156
+2024-03-08,Normal college day. Moderate evening device usage.,Friday,3.95,0.257,10.0,0.7,4.96,0.089,3.4,0.034,2.26,0.271,1.351
+2024-03-09,Weekend at home. Regular fan and laptop use.,Saturday,4.52,0.294,11.13,0.779,5.59,0.101,4.77,0.048,1.2,0.144,1.366
+2024-03-10,Weekend at home. Regular fan and laptop use.,Sunday,3.36,0.218,8.65,0.606,4.75,0.086,3.67,0.037,3.12,0.374,1.321
+2024-03-11,Normal college day. Moderate evening device usage.,Monday,4.19,0.272,11.78,0.825,4.59,0.083,4.93,0.049,4.9,0.588,1.817
+2024-03-12,Normal college day. Moderate evening device usage.,Tuesday,4.18,0.272,9.02,0.631,4.79,0.086,3.12,0.031,1.83,0.22,1.24
+2024-03-13,Stayed home all day. Fan and laptop usage high.,Wednesday,4.73,0.307,8.19,0.573,4.66,0.084,5.12,0.051,4.7,0.564,1.579
+2024-03-14,Normal college day. Moderate evening device usage.,Thursday,3.87,0.252,10.79,0.755,5.16,0.093,3.48,0.035,2.39,0.287,1.422
+2024-03-15,Stayed home all day. Fan and laptop usage high.,Friday,4.24,0.276,11.79,0.825,4.21,0.076,4.52,0.045,1.97,0.236,1.458
+2024-03-16,Stayed home all day. Fan and laptop usage high.,Saturday,4.02,0.261,8.1,0.567,4.94,0.089,5.46,0.055,3.32,0.398,1.37
+2024-03-17,Weekend at home. Regular fan and laptop use.,Sunday,3.85,0.25,9.14,0.64,4.89,0.088,4.15,0.042,5.01,0.601,1.621
+2024-03-18,Normal college day. Moderate evening device usage.,Monday,5.4,0.351,9.75,0.682,5.18,0.093,5.54,0.055,2.56,0.307,1.488
+2024-03-19,Normal college day. Moderate evening device usage.,Tuesday,4.16,0.27,8.92,0.624,6.23,0.112,4.6,0.046,4.85,0.582,1.634
+2024-03-20,Normal college day. Moderate evening device usage.,Wednesday,4.84,0.315,8.86,0.62,6.15,0.111,5.4,0.054,2.08,0.25,1.35
+2024-03-21,Normal college day. Moderate evening device usage.,Thursday,3.02,0.196,8.01,0.561,5.35,0.096,4.06,0.041,3.33,0.4,1.294
+2024-03-22,Normal college day. Moderate evening device usage.,Friday,3.06,0.199,11.44,0.801,4.77,0.086,3.68,0.037,2.88,0.346,1.469
+2024-03-23,Out most of the day. Minimal appliance usage.,Saturday,4.0,0.26,8.86,0.62,4.82,0.087,3.51,0.035,4.31,0.517,1.519
+2024-03-24,Stayed home all day. Fan and laptop usage high.,Sunday,4.81,0.313,9.85,0.69,6.14,0.111,5.21,0.052,0.83,0.1,1.266
+2024-03-25,Normal college day. Moderate evening device usage.,Monday,5.4,0.351,11.28,0.79,4.61,0.083,3.56,0.036,0.75,0.09,1.35
+2024-03-26,Normal college day. Moderate evening device usage.,Tuesday,2.92,0.19,10.99,0.769,5.41,0.097,5.35,0.054,4.48,0.538,1.648
+2024-03-27,Normal college day. Moderate evening device usage.,Wednesday,4.31,0.28,10.75,0.752,4.06,0.073,3.94,0.039,3.83,0.46,1.604
+2024-03-28,Normal college day. Moderate evening device usage.,Thursday,2.53,0.164,8.13,0.569,6.56,0.118,5.05,0.05,1.59,0.191,1.092
+2024-03-29,Normal college day. Moderate evening device usage.,Friday,4.56,0.296,11.17,0.782,4.92,0.089,3.11,0.031,5.6,0.672,1.87
+2024-03-30,Stayed home all day. Fan and laptop usage high.,Saturday,3.54,0.23,8.43,0.59,5.48,0.099,5.31,0.053,1.33,0.16,1.132
+2024-03-31,Weekend at home. Regular fan and laptop use.,Sunday,3.31,0.215,8.97,0.628,6.98,0.126,3.59,0.036,3.45,0.414,1.419
+2024-04-01,Normal college day. Moderate evening device usage.,Monday,5.28,0.343,8.59,0.601,6.91,0.124,5.84,0.058,5.31,0.637,1.763
+2024-04-02,Stayed home all day. Fan and laptop usage high.,Tuesday,3.14,0.204,10.54,0.738,6.28,0.113,5.96,0.06,1.08,0.13,1.245
+2024-04-03,Stayed home all day. Fan and laptop usage high.,Wednesday,4.8,0.312,9.36,0.655,4.53,0.082,4.26,0.043,4.76,0.571,1.663
+2024-04-04,Normal college day. Moderate evening device usage.,Thursday,3.89,0.253,10.15,0.71,6.99,0.126,4.2,0.042,3.69,0.443,1.574
+2024-04-05,Normal college day. Moderate evening device usage.,Friday,3.6,0.234,9.57,0.67,6.09,0.11,5.81,0.058,3.25,0.39,1.462
+2024-04-06,Weekend at home. Regular fan and laptop use.,Saturday,4.81,0.313,8.36,0.585,4.63,0.083,4.51,0.045,0.12,0.014,1.04
+2024-04-07,Weekend at home. Regular fan and laptop use.,Sunday,3.26,0.212,10.07,0.705,4.04,0.073,3.79,0.038,3.08,0.37,1.398
+2024-04-08,Normal college day. Moderate evening device usage.,Monday,4.22,0.274,11.7,0.819,5.94,0.107,4.24,0.042,5.58,0.67,1.912
+2024-04-09,Normal college day. Moderate evening device usage.,Tuesday,4.85,0.315,8.8,0.616,4.39,0.079,5.03,0.05,3.36,0.403,1.463
+2024-04-10,Power cut in evening. Reduced fan/laptop usage.,Wednesday,4.87,0.317,10.96,0.767,5.88,0.106,5.96,0.06,3.2,0.384,1.634
+2024-04-11,Normal college day. Moderate evening device usage.,Thursday,2.84,0.185,11.31,0.792,4.76,0.086,5.33,0.053,5.74,0.689,1.805
+2024-04-12,Stayed home all day. Fan and laptop usage high.,Friday,4.59,0.298,10.38,0.727,5.38,0.097,4.09,0.041,2.12,0.254,1.417
+2024-04-13,Stayed home all day. Fan and laptop usage high.,Saturday,4.41,0.287,11.01,0.771,6.04,0.109,3.6,0.036,2.96,0.355,1.558
+2024-04-14,Weekend at home. Regular fan and laptop use.,Sunday,4.87,0.317,9.9,0.693,5.61,0.101,5.31,0.053,3.97,0.476,1.64
+2024-04-15,Normal college day. Moderate evening device usage.,Monday,3.73,0.242,11.58,0.811,4.49,0.081,5.99,0.06,0.71,0.085,1.279
+2024-04-16,Normal college day. Moderate evening device usage.,Tuesday,2.54,0.165,11.56,0.809,4.73,0.085,5.19,0.052,4.87,0.584,1.695
+2024-04-17,Normal college day. Moderate evening device usage.,Wednesday,5.08,0.33,11.97,0.838,4.88,0.088,5.13,0.051,0.69,0.083,1.39
+2024-04-18,Stayed home all day. Fan and laptop usage high.,Thursday,3.72,0.242,11.39,0.797,5.1,0.092,4.77,0.048,3.02,0.362,1.541
+2024-04-19,Normal college day. Moderate evening device usage.,Friday,4.44,0.289,11.89,0.832,4.17,0.075,4.72,0.047,5.18,0.622,1.865
+2024-04-20,Weekend at home. Regular fan and laptop use.,Saturday,3.94,0.256,8.31,0.582,5.68,0.102,4.0,0.04,0.93,0.112,1.092
+2024-04-21,Weekend at home. Regular fan and laptop use.,Sunday,5.05,0.328,10.09,0.706,6.8,0.122,5.42,0.054,4.16,0.499,1.709
+2024-04-22,Stayed home all day. Fan and laptop usage high.,Monday,2.52,0.164,9.71,0.68,4.59,0.083,5.73,0.057,1.05,0.126,1.11
+2024-04-23,Normal college day. Moderate evening device usage.,Tuesday,3.36,0.218,10.07,0.705,4.79,0.086,3.63,0.036,3.59,0.431,1.476
+2024-04-24,Normal college day. Moderate evening device usage.,Wednesday,2.77,0.18,8.23,0.576,5.12,0.092,5.16,0.052,3.33,0.4,1.3
+2024-04-25,Normal college day. Moderate evening device usage.,Thursday,3.77,0.245,10.26,0.718,5.1,0.092,5.81,0.058,0.33,0.04,1.153
+2024-04-26,Normal college day. Moderate evening device usage.,Friday,4.52,0.294,11.57,0.81,6.41,0.115,3.55,0.036,1.78,0.214,1.469
+2024-04-27,Out most of the day. Minimal appliance usage.,Saturday,4.65,0.302,8.34,0.584,6.44,0.116,5.16,0.052,4.38,0.526,1.58
+2024-04-28,Stayed home all day. Fan and laptop usage high.,Sunday,2.8,0.182,10.87,0.761,6.04,0.109,5.49,0.055,0.25,0.03,1.137
+2024-04-29,Normal college day. Moderate evening device usage.,Monday,2.57,0.167,9.49,0.664,4.45,0.08,4.68,0.047,5.5,0.66,1.618
+2024-04-30,Normal college day. Moderate evening device usage.,Tuesday,3.67,0.239,11.38,0.797,4.0,0.072,3.51,0.035,0.18,0.022,1.165
+2024-05-01,Normal college day. Moderate evening device usage.,Wednesday,3.48,0.226,11.63,0.814,4.29,0.077,4.82,0.048,2.71,0.325,1.49
+2024-05-02,Normal college day. Moderate evening device usage.,Thursday,5.32,0.346,8.49,0.594,4.64,0.084,3.09,0.031,2.6,0.312,1.367
+2024-05-03,Normal college day. Moderate evening device usage.,Friday,3.33,0.216,11.48,0.804,5.81,0.105,4.84,0.048,3.19,0.383,1.556
+2024-05-04,Weekend at home. Regular fan and laptop use.,Saturday,2.78,0.181,9.78,0.685,7.0,0.126,5.51,0.055,5.36,0.643,1.69
+2024-05-05,Weekend at home. Regular fan and laptop use.,Sunday,4.97,0.323,8.41,0.589,4.68,0.084,3.01,0.03,1.82,0.218,1.244
+2024-05-06,Normal college day. Moderate evening device usage.,Monday,2.83,0.184,9.89,0.692,6.03,0.109,5.62,0.056,4.5,0.54,1.581
+2024-05-07,Normal college day. Moderate evening device usage.,Tuesday,5.32,0.346,8.22,0.575,4.04,0.073,4.98,0.05,1.74,0.209,1.253
+2024-05-08,Normal college day. Moderate evening device usage.,Wednesday,3.26,0.212,9.32,0.652,4.81,0.087,4.53,0.045,2.64,0.317,1.313
+2024-05-09,Normal college day. Moderate evening device usage.,Thursday,4.04,0.263,10.69,0.748,5.16,0.093,3.75,0.038,1.0,0.12,1.262
+2024-05-10,Normal college day. Moderate evening device usage.,Friday,3.55,0.231,10.97,0.768,6.27,0.113,5.0,0.05,1.4,0.168,1.33
+2024-05-11,Weekend at home. Regular fan and laptop use.,Saturday,4.26,0.277,10.28,0.72,5.45,0.098,4.65,0.046,2.95,0.354,1.495
+2024-05-12,Power cut in evening. Reduced fan/laptop usage.,Sunday,4.2,0.273,10.86,0.76,4.33,0.078,5.25,0.052,0.82,0.098,1.261
+2024-05-13,Stayed home all day. Fan and laptop usage high.,Monday,2.7,0.176,11.9,0.833,6.87,0.124,3.18,0.032,2.66,0.319,1.484
+2024-05-14,Stayed home all day. Fan and laptop usage high.,Tuesday,3.06,0.199,9.94,0.696,6.49,0.117,5.85,0.058,3.81,0.457,1.527
+2024-05-15,Normal college day. Moderate evening device usage.,Wednesday,3.56,0.231,10.41,0.729,4.94,0.089,5.73,0.057,5.22,0.626,1.732
+2024-05-16,Normal college day. Moderate evening device usage.,Thursday,4.17,0.271,9.3,0.651,4.88,0.088,3.1,0.031,4.89,0.587,1.628
+2024-05-17,Stayed home all day. Fan and laptop usage high.,Friday,3.85,0.25,9.3,0.651,5.41,0.097,5.46,0.055,0.75,0.09,1.143
+2024-05-18,Stayed home all day. Fan and laptop usage high.,Saturday,5.07,0.33,11.59,0.811,6.84,0.123,4.19,0.042,1.3,0.156,1.462
+2024-05-19,Weekend at home. Regular fan and laptop use.,Sunday,3.62,0.235,9.33,0.653,4.53,0.082,4.82,0.048,2.86,0.343,1.361
+2024-05-20,Normal college day. Moderate evening device usage.,Monday,5.1,0.332,8.13,0.569,5.93,0.107,5.29,0.053,4.56,0.547,1.608
+2024-05-21,Stayed home all day. Fan and laptop usage high.,Tuesday,5.16,0.335,10.92,0.764,6.78,0.122,4.0,0.04,3.02,0.362,1.623
+2024-05-22,Normal college day. Moderate evening device usage.,Wednesday,2.54,0.165,8.03,0.562,4.72,0.085,3.3,0.033,1.56,0.187,1.032
+2024-05-23,Stayed home all day. Fan and laptop usage high.,Thursday,3.03,0.197,8.11,0.568,6.73,0.121,3.02,0.03,4.42,0.53,1.446
+2024-05-24,Normal college day. Moderate evening device usage.,Friday,2.96,0.192,11.65,0.816,6.68,0.12,4.96,0.05,4.03,0.484,1.662
+2024-05-25,Power cut in evening. Reduced fan/laptop usage.,Saturday,2.52,0.164,11.94,0.836,6.63,0.119,5.69,0.057,3.96,0.475,1.651
+2024-05-26,Weekend at home. Regular fan and laptop use.,Sunday,3.53,0.229,11.57,0.81,4.87,0.088,4.69,0.047,0.6,0.072,1.246
+2024-05-27,Normal college day. Moderate evening device usage.,Monday,5.27,0.343,8.56,0.599,4.67,0.084,4.67,0.047,4.58,0.55,1.623
+2024-05-28,Stayed home all day. Fan and laptop usage high.,Tuesday,4.36,0.283,8.93,0.625,4.0,0.072,5.27,0.053,5.91,0.709,1.742
+2024-05-29,Stayed home all day. Fan and laptop usage high.,Wednesday,4.93,0.32,9.84,0.689,6.71,0.121,4.23,0.042,3.15,0.378,1.55
+2024-05-30,Normal college day. Moderate evening device usage.,Thursday,3.93,0.255,9.79,0.685,6.33,0.114,4.58,0.046,1.9,0.228,1.328
+2024-05-31,Normal college day. Moderate evening device usage.,Friday,3.27,0.213,8.15,0.57,5.75,0.104,3.69,0.037,0.89,0.107,1.031
+2024-06-01,Weekend at home. Regular fan and laptop use.,Saturday,3.43,0.223,8.3,0.581,4.79,0.086,3.53,0.035,4.02,0.482,1.407
+2024-06-02,Weekend at home. Regular fan and laptop use.,Sunday,4.0,0.26,8.58,0.601,4.58,0.082,3.14,0.031,4.42,0.53,1.504
+2024-06-03,Stayed home all day. Fan and laptop usage high.,Monday,2.67,0.174,7.25,0.507,4.22,0.076,2.66,0.027,4.4,0.528,1.312
+2024-06-04,Normal college day. Moderate evening device usage.,Tuesday,3.3,0.214,8.03,0.562,4.61,0.083,3.52,0.035,0.14,0.017,0.911
+2024-06-05,Normal college day. Moderate evening device usage.,Wednesday,3.35,0.218,8.38,0.587,4.17,0.075,4.03,0.04,1.02,0.122,1.042
+2024-06-06,Stayed home all day. Fan and laptop usage high.,Thursday,2.57,0.167,7.16,0.501,4.09,0.074,4.2,0.042,3.73,0.448,1.232
+2024-06-07,Stayed home all day. Fan and laptop usage high.,Friday,2.89,0.188,8.1,0.567,4.73,0.085,3.02,0.03,0.76,0.091,0.961
+2024-06-08,Weekend at home. Regular fan and laptop use.,Saturday,4.07,0.265,8.16,0.571,5.22,0.094,3.21,0.032,3.16,0.379,1.341
+2024-06-09,Stayed home all day. Fan and laptop usage high.,Sunday,2.57,0.167,7.37,0.516,4.35,0.078,3.17,0.032,0.75,0.09,0.883
+2024-06-10,Normal college day. Moderate evening device usage.,Monday,2.65,0.172,6.88,0.482,4.7,0.085,3.51,0.035,0.42,0.05,0.824
+2024-06-11,Normal college day. Moderate evening device usage.,Tuesday,2.47,0.161,7.03,0.492,4.53,0.082,2.73,0.027,3.39,0.407,1.169
+2024-06-12,Stayed home all day. Fan and laptop usage high.,Wednesday,2.17,0.141,7.35,0.514,5.05,0.091,3.95,0.04,0.33,0.04,0.826
+2024-06-13,Normal college day. Moderate evening device usage.,Thursday,3.77,0.245,7.88,0.552,4.97,0.089,3.72,0.037,3.07,0.368,1.291
+2024-06-14,Normal college day. Moderate evening device usage.,Friday,4.11,0.267,7.31,0.512,4.55,0.082,3.45,0.034,0.18,0.022,0.917
+2024-06-15,Stayed home all day. Fan and laptop usage high.,Saturday,2.15,0.14,7.06,0.494,4.6,0.083,3.66,0.037,2.49,0.299,1.053
+2024-06-16,Weekend at home. Regular fan and laptop use.,Sunday,2.19,0.142,7.83,0.548,5.11,0.092,3.33,0.033,2.81,0.337,1.152
+2024-06-17,Normal college day. Moderate evening device usage.,Monday,3.68,0.239,8.52,0.596,4.36,0.078,4.22,0.042,1.76,0.211,1.166
+2024-06-18,Normal college day. Moderate evening device usage.,Tuesday,3.9,0.254,7.33,0.513,3.92,0.071,2.65,0.026,3.58,0.43,1.294
+2024-06-19,Normal college day. Moderate evening device usage.,Wednesday,2.96,0.192,7.3,0.511,3.83,0.069,4.31,0.043,3.75,0.45,1.265
+2024-06-20,Stayed home all day. Fan and laptop usage high.,Thursday,3.23,0.21,8.16,0.571,4.28,0.077,3.31,0.033,4.12,0.494,1.385
+2024-06-21,Stayed home all day. Fan and laptop usage high.,Friday,2.38,0.155,7.72,0.54,4.04,0.073,3.52,0.035,2.06,0.247,1.05
+2024-06-22,Weekend at home. Regular fan and laptop use.,Saturday,3.16,0.205,7.11,0.498,4.35,0.078,3.02,0.03,0.83,0.1,0.911
+2024-06-23,Weekend at home. Regular fan and laptop use.,Sunday,2.25,0.146,8.48,0.594,4.19,0.075,3.77,0.038,3.27,0.392,1.245
+2024-06-24,Normal college day. Moderate evening device usage.,Monday,3.48,0.226,7.84,0.549,4.12,0.074,3.28,0.033,2.88,0.346,1.228
+2024-06-25,Stayed home all day. Fan and laptop usage high.,Tuesday,3.11,0.202,8.67,0.607,5.02,0.09,2.88,0.029,0.61,0.073,1.001
+2024-06-26,Normal college day. Moderate evening device usage.,Wednesday,3.39,0.22,7.46,0.522,3.43,0.062,4.28,0.043,1.02,0.122,0.969
+2024-06-27,Normal college day. Moderate evening device usage.,Thursday,3.98,0.259,8.38,0.587,4.81,0.087,2.94,0.029,1.05,0.126,1.088
+2024-06-28,Normal college day. Moderate evening device usage.,Friday,3.17,0.206,7.18,0.503,3.97,0.071,3.18,0.032,0.72,0.086,0.898
+2024-06-29,Weekend at home. Regular fan and laptop use.,Saturday,2.54,0.165,8.53,0.597,3.71,0.067,2.61,0.026,2.83,0.34,1.195
+2024-06-30,Weekend at home. Regular fan and laptop use.,Sunday,4.08,0.265,7.53,0.527,3.62,0.065,3.66,0.037,4.08,0.49,1.384
+2024-07-01,Normal college day. Moderate evening device usage.,Monday,3.69,0.24,8.17,0.572,3.98,0.072,3.61,0.036,0.41,0.049,0.969
+2024-07-02,Normal college day. Moderate evening device usage.,Tuesday,3.48,0.226,8.4,0.588,5.19,0.093,3.06,0.031,0.08,0.01,0.948
+2024-07-03,Stayed home all day. Fan and laptop usage high.,Wednesday,3.22,0.209,8.35,0.584,4.86,0.087,2.93,0.029,1.18,0.142,1.051
+2024-07-04,Normal college day. Moderate evening device usage.,Thursday,3.15,0.205,7.53,0.527,4.99,0.09,3.47,0.035,3.6,0.432,1.289
+2024-07-05,Normal college day. Moderate evening device usage.,Friday,3.29,0.214,8.5,0.595,4.02,0.072,4.17,0.042,1.24,0.149,1.072
+2024-07-06,Weekend at home. Regular fan and laptop use.,Saturday,3.22,0.209,7.27,0.509,4.28,0.077,3.17,0.032,1.2,0.144,0.971
+2024-07-07,Out most of the day. Minimal appliance usage.,Sunday,4.06,0.264,7.15,0.5,4.86,0.087,4.47,0.045,0.09,0.011,0.907
+2024-07-08,Normal college day. Moderate evening device usage.,Monday,3.52,0.229,7.36,0.515,3.47,0.062,3.34,0.033,4.21,0.505,1.344
+2024-07-09,Normal college day. Moderate evening device usage.,Tuesday,2.15,0.14,8.09,0.566,4.33,0.078,4.25,0.042,0.38,0.046,0.872
+2024-07-10,Normal college day. Moderate evening device usage.,Wednesday,3.49,0.227,8.3,0.581,4.64,0.084,4.39,0.044,3.7,0.444,1.38
+2024-07-11,Normal college day. Moderate evening device usage.,Thursday,2.21,0.144,7.84,0.549,4.14,0.075,3.15,0.032,2.03,0.244,1.044
+2024-07-12,Normal college day. Moderate evening device usage.,Friday,2.89,0.188,7.75,0.542,5.21,0.094,2.72,0.027,4.15,0.498,1.349
+2024-07-13,Stayed home all day. Fan and laptop usage high.,Saturday,3.09,0.201,8.17,0.572,4.94,0.089,3.25,0.032,1.94,0.233,1.127
+2024-07-14,Weekend at home. Regular fan and laptop use.,Sunday,2.94,0.191,7.62,0.533,5.11,0.092,4.17,0.042,0.49,0.059,0.917
+2024-07-15,Normal college day. Moderate evening device usage.,Monday,2.34,0.152,7.74,0.542,3.58,0.064,3.76,0.038,0.65,0.078,0.874
+2024-07-16,Normal college day. Moderate evening device usage.,Tuesday,3.17,0.206,6.82,0.477,3.99,0.072,3.87,0.039,2.18,0.262,1.056
+2024-07-17,Power cut in evening. Reduced fan/laptop usage.,Wednesday,4.08,0.265,8.72,0.61,4.06,0.073,2.64,0.026,3.81,0.457,1.431
+2024-07-18,Normal college day. Moderate evening device usage.,Thursday,3.95,0.257,8.61,0.603,3.64,0.066,4.5,0.045,1.16,0.139,1.11
+2024-07-19,Normal college day. Moderate evening device usage.,Friday,3.57,0.232,8.8,0.616,3.84,0.069,4.32,0.043,1.39,0.167,1.127
+2024-07-20,Weekend at home. Regular fan and laptop use.,Saturday,4.08,0.265,7.42,0.519,5.16,0.093,2.65,0.026,3.19,0.383,1.286
+2024-07-21,Stayed home all day. Fan and laptop usage high.,Sunday,3.19,0.207,7.85,0.55,3.81,0.069,3.93,0.039,0.86,0.103,0.968
+2024-07-22,Normal college day. Moderate evening device usage.,Monday,3.23,0.21,7.36,0.515,5.17,0.093,2.61,0.026,0.9,0.108,0.952
+2024-07-23,Normal college day. Moderate evening device usage.,Tuesday,2.61,0.17,7.71,0.54,3.83,0.069,3.51,0.035,3.93,0.472,1.286
+2024-07-24,Normal college day. Moderate evening device usage.,Wednesday,3.55,0.231,8.08,0.566,3.56,0.064,3.9,0.039,0.75,0.09,0.99
+2024-07-25,Normal college day. Moderate evening device usage.,Thursday,3.7,0.24,7.35,0.514,4.17,0.075,3.23,0.032,3.86,0.463,1.324
+2024-07-26,Normal college day. Moderate evening device usage.,Friday,2.38,0.155,8.04,0.563,3.66,0.066,3.92,0.039,4.07,0.488,1.311
+2024-07-27,Stayed home all day. Fan and laptop usage high.,Saturday,2.99,0.194,7.87,0.551,5.12,0.092,3.57,0.036,2.19,0.263,1.136
+2024-07-28,Weekend at home. Regular fan and laptop use.,Sunday,3.28,0.213,8.32,0.582,3.6,0.065,4.15,0.042,1.96,0.235,1.137
+2024-07-29,Normal college day. Moderate evening device usage.,Monday,2.27,0.148,8.53,0.597,4.1,0.074,2.75,0.028,2.85,0.342,1.189
+2024-07-30,Normal college day. Moderate evening device usage.,Tuesday,3.89,0.253,8.75,0.612,5.17,0.093,4.24,0.042,0.01,0.001,1.001
+2024-07-31,Normal college day. Moderate evening device usage.,Wednesday,2.89,0.188,8.6,0.602,4.08,0.073,3.72,0.037,2.73,0.328,1.228
+2024-08-01,Stayed home all day. Fan and laptop usage high.,Thursday,2.86,0.186,8.79,0.615,4.33,0.078,3.46,0.035,4.49,0.539,1.453
+2024-08-02,Normal college day. Moderate evening device usage.,Friday,3.11,0.202,7.19,0.503,4.35,0.078,4.14,0.041,3.5,0.42,1.244
+2024-08-03,Weekend at home. Regular fan and laptop use.,Saturday,3.7,0.24,8.36,0.585,3.87,0.07,4.23,0.042,4.02,0.482,1.419
+2024-08-04,Weekend at home. Regular fan and laptop use.,Sunday,2.51,0.163,7.09,0.496,5.2,0.094,4.24,0.042,4.02,0.482,1.277
+2024-08-05,Normal college day. Moderate evening device usage.,Monday,3.9,0.254,7.99,0.559,4.6,0.083,3.61,0.036,0.23,0.028,0.96
+2024-08-06,Stayed home all day. Fan and laptop usage high.,Tuesday,3.62,0.235,7.91,0.554,4.6,0.083,3.53,0.035,2.21,0.265,1.172
+2024-08-07,Normal college day. Moderate evening device usage.,Wednesday,2.47,0.161,7.41,0.519,3.69,0.066,2.93,0.029,4.38,0.526,1.301
+2024-08-08,Normal college day. Moderate evening device usage.,Thursday,2.43,0.158,7.39,0.517,4.49,0.081,3.74,0.037,0.69,0.083,0.876
+2024-08-09,Normal college day. Moderate evening device usage.,Friday,3.71,0.241,8.53,0.597,3.84,0.069,3.11,0.031,4.22,0.506,1.444
+2024-08-10,Weekend at home. Regular fan and laptop use.,Saturday,3.78,0.246,8.34,0.584,3.55,0.064,3.37,0.034,2.52,0.302,1.23
+2024-08-11,Out most of the day. Minimal appliance usage.,Sunday,2.5,0.162,7.79,0.545,4.51,0.081,3.19,0.032,3.51,0.421,1.241
+2024-08-12,Normal college day. Moderate evening device usage.,Monday,3.81,0.248,7.51,0.526,4.95,0.089,2.75,0.028,3.77,0.452,1.343
+2024-08-13,Normal college day. Moderate evening device usage.,Tuesday,2.43,0.158,6.98,0.489,4.59,0.083,3.47,0.035,4.09,0.491,1.256
+2024-08-14,Stayed home all day. Fan and laptop usage high.,Wednesday,2.85,0.185,7.43,0.52,4.33,0.078,3.44,0.034,1.55,0.186,1.003
+2024-08-15,Normal college day. Moderate evening device usage.,Thursday,3.51,0.228,8.47,0.593,4.98,0.09,4.45,0.044,1.2,0.144,1.099
+2024-08-16,Normal college day. Moderate evening device usage.,Friday,3.56,0.231,7.67,0.537,4.65,0.084,3.48,0.035,4.47,0.536,1.423
+2024-08-17,Out most of the day. Minimal appliance usage.,Saturday,3.58,0.233,8.9,0.623,4.94,0.089,4.31,0.043,3.66,0.439,1.427
+2024-08-18,Weekend at home. Regular fan and laptop use.,Sunday,3.04,0.198,7.35,0.514,4.09,0.074,2.59,0.026,2.36,0.283,1.095
+2024-08-19,Stayed home all day. Fan and laptop usage high.,Monday,3.14,0.204,7.96,0.557,5.2,0.094,4.33,0.043,0.73,0.088,0.986
+2024-08-20,Normal college day. Moderate evening device usage.,Tuesday,2.86,0.186,7.73,0.541,4.07,0.073,4.11,0.041,2.36,0.283,1.124
+2024-08-21,Normal college day. Moderate evening device usage.,Wednesday,3.27,0.213,8.68,0.608,4.89,0.088,2.81,0.028,3.21,0.385,1.322
+2024-08-22,Normal college day. Moderate evening device usage.,Thursday,3.0,0.195,7.45,0.522,3.49,0.063,3.5,0.035,1.6,0.192,1.007
+2024-08-23,Normal college day. Moderate evening device usage.,Friday,2.63,0.171,8.33,0.583,4.82,0.087,3.03,0.03,0.22,0.026,0.897
+2024-08-24,Weekend at home. Regular fan and laptop use.,Saturday,3.82,0.248,6.82,0.477,5.13,0.092,3.77,0.038,1.45,0.174,1.029
+2024-08-25,Out most of the day. Minimal appliance usage.,Sunday,2.62,0.17,6.82,0.477,3.84,0.069,2.82,0.028,2.75,0.33,1.074
+2024-08-26,Normal college day. Moderate evening device usage.,Monday,2.46,0.16,7.96,0.557,4.49,0.081,3.13,0.031,0.16,0.019,0.848
+2024-08-27,Normal college day. Moderate evening device usage.,Tuesday,2.2,0.143,6.86,0.48,4.77,0.086,3.17,0.032,3.58,0.43,1.171
+2024-08-28,Normal college day. Moderate evening device usage.,Wednesday,2.99,0.194,7.8,0.546,4.35,0.078,3.94,0.039,1.23,0.148,1.005
+2024-08-29,Normal college day. Moderate evening device usage.,Thursday,2.37,0.154,8.02,0.561,4.0,0.072,3.41,0.034,2.91,0.349,1.17
+2024-08-30,Normal college day. Moderate evening device usage.,Friday,3.11,0.202,8.16,0.571,4.41,0.079,3.99,0.04,3.18,0.382,1.274
+2024-08-31,Weekend at home. Regular fan and laptop use.,Saturday,3.19,0.207,8.29,0.58,5.02,0.09,3.39,0.034,1.86,0.223,1.134
