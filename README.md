@@ -1,39 +1,68 @@
-# WattWatch_Datasheet
-A dataset repository for “WattWatch: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT.” This project uses IoT data to provide insights into energy usage, cost savings, and user engagement with conservation recommendations.
-Here’s a refined GitHub README dataset description suitable for a research paper and with a reference to the YouTube video description.
+Understood. Here’s a revised version of the README tailored for the combined daily dataset (where each file contains both behavior journal and corresponding appliance usage data):
 
----
+WattWatch Dataset: Behavior-Synced Daily Energy Usage Records
 
-# WattWatch Dataset: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT
+This repository contains the full 6-month dataset generated as part of the research project:
 
-Welcome to the WattWatch dataset repository! This dataset is part of our research project, "WattWatch: Electricity Consumer Behavior Monitoring and Feedback for Energy Conservation Using IoT." It supports our energy management system by providing real-time data insights on consumer electricity consumption, enabling personalized feedback, and fostering energy conservation behaviors.
+“Development and Implementation of a User-Centric Real-Time Energy Monitoring and Feedback System for Energy Conservation.”
 
-### Project Summary
+Each entry in this dataset links user behavior with device-level electricity usage, collected in five controlled room-level setups. The dataset is designed to study how personalized feedback, app-based nudges, and usage summaries influence consumer electricity usage patterns over time.
 
-WattWatch is an IoT-based energy monitoring and feedback system aimed at empowering users with actionable insights into their energy consumption patterns. By analyzing this dataset, researchers and developers can better understand user interactions with energy feedback mechanisms and evaluate the impact of feedback on promoting energy-saving behaviors. Our team’s objective is to harness this data to encourage efficient energy use, reduce costs, and support sustainable energy practices.
+⸻
 
-### Dataset Description
+Dataset Description
 
-The dataset spans a six-month period, capturing daily records for each participant. The variables included in this dataset are designed to measure both objective energy consumption and subjective user interactions:
+Each file corresponds to one real-life test profile and contains daily records for 6 months (March–August 2024), divided as:
+	•	March–May: Passive monitoring (no feedback)
+	•	June–August: Active feedback system in use (via Proposed WattWatch app)
 
-| Column Name                    | Data Type  | Description                                                                                             |
-|--------------------------------|------------|---------------------------------------------------------------------------------------------------------|
-| `Date`                         | Date       | The date of the record entry                                |
-| `User ID`                      | Categorical| Unique identifier for each user, representing individual households.                                     |
-| `Total Consumption (kWh)`      | Float      | Total electricity consumption per day in kilowatt-hours (kWh).                                          |
-| `Peak Consumption (kWh)`       | Float      | Energy consumed during peak hours (kWh), calculated based on hourly usage patterns.                     |
-| `Off-Peak Consumption (kWh)`   | Float      | Energy consumed during off-peak hours (kWh), complementing peak consumption values.                     |
-| `Cost (INR)`                   | Float      | Daily electricity cost calculated using standard rates from TNEB.                                       |
-| `Cost Savings (INR)`           | Float      | Estimated cost savings from behavioral changes, with recommendations like adjusting A/C during cool hours.|
-| `Logins/Day`                   | Integer    | Number of times the user accessed the WattWatch app per day, reflecting engagement level.               |
-| `Feedback Interaction (%)`     | Integer    | Percentage of feedback viewed or acknowledged by the user per day.                                      |
-| `Recommendations Implemented (%)` | Integer | Percentage of daily recommendations followed by the user, indicating behavioral compliance.             |
-| `Uptime (%)`                   | Float      | Uptime percentage of the IoT system, calculated per day.                                               |
-| `Data Integrity (%)`           | Float      | Integrity of data capture and transmission from sensors, represented as a percentage.                   |
-| `Downtime (min)`               | Integer    | Minutes of downtime recorded per day due to connectivity or hardware issues.                           |
-| `Temperature (C)`              | Float      | Daily average temperature in Celsius, potentially influencing energy consumption.                       |
+Each day logs both qualitative behavioral summaries and quantitative usage metrics for every electrical device used.
 
-### Usage and Access
+⸻
 
-The initial raw data collected from Firebase provided valuable information but was not in a format suitable for direct visualization and analysis. This CSV file is generated by the Flutter app developed with an option in admin dashboardwhich facilitates clear, interpretable insights.
-This dataset is designed to be accessible and modifiable to support a wide range of energy behavior studies. By referencing this data, researchers can analyze the correlation between temperature, user interaction with the WattWatch app, feedback response rates, and daily energy cost savings.
+Profiles Covered
+	•	Profile 1: 21-year-old male college student
+	•	Profile 2: 21-year-old female college student
+	•	Profile 3: Hall used by an Indian couple (45–50 years old)
+	•	Profile 4: Shared bachelor apartment (3 roommates)
+	•	Profile 5: Faculty cabin (institutional use)
+
+⸻
+
+File Structure
+
+WattWatch_Datasheet/
+│
+├── 21M_FullData.csv
+├── 21F_FullData.csv
+├── Couple_FullData.csv
+├── Bachelors_FullData.csv
+└── Faculty_FullData.csv
+
+⸻
+
+Column Definitions
+
+Column	Description
+Date	Calendar date
+Day	Day of the week (e.g., Monday)
+Behavior Journal	1–2 line free-text summary of the user’s activities or contextual notes
+Device	Name of the electrical appliance
+Rated Power (W)	Device’s nominal power consumption in watts
+Time Used (hrs)	Duration (in hours) the device was active on that day
+Energy Consumed (kWh)	Computed as (Rated Power × Time Used) ÷ 1000
+Total Daily Load	Sum of kWh consumed by all devices for that day
+App Feedback Used	Indicates whether feedback & nudges were active (True/False)
+
+
+
+⸻
+
+Use Cases
+
+This dataset supports:
+	•	Energy behavior research in controlled residential and institutional environments
+	•	Quantitative evaluation of feedback mechanisms and nudging strategies
+	•	Temporal analysis of device-specific consumption vs. contextual routines
+	•	Simulation and ML-based demand prediction models
+
